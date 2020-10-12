@@ -16,7 +16,6 @@ import {
   StatusBar,
 } from 'react-native';
 
-
 class App extends Component {
   render() {
     return (
@@ -27,7 +26,7 @@ class App extends Component {
             <Text>Hola món!!</Text>
           </View>
         </SafeAreaView>
-        </>
+      </>
     );
   }
 }
